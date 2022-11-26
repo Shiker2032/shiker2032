@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Привет 👋, меня зовут Влад</h1>
+<h3 align="center">Я разрабатываю на React JS</h3>
 
-<!--
-**Shiker2032/shiker2032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Обо мне</h2>
 
-Here are some ideas to get you started:
+- 🔥 Учусь в яндекс практикуме на курсе "веб-разработчик плюс"
+-  ⚔ Изучаю React и его возможности
+- 💻 Люблю программировать
+- 📫 свяжитесь со мной **walter2032@yandex.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+</p>
+
+<h3 align="left">Языки и инструменты:</h3>
+
+-  **JS/TypeScript**
+-  **React/Redux**
+-  **HTML5/CSS/SASS**
+-  **Cypress/Jest**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiker2032&show_icons=true&locale=en&layout=compact" alt="shiker2032" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiker2032&show_icons=true&locale=en" alt="shiker2032" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiker2032&" alt="shiker2032" /></p>
