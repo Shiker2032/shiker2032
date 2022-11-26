@@ -16,8 +16,10 @@
 -  **HTML5/CSS/SASS**
 -  **Cypress/Jest**
 
+<section>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiker2032&show_icons=true&locale=en&layout=compact" alt="shiker2032" /></p>
+</section>
 
+<section>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiker2032&show_icons=true&locale=en" alt="shiker2032" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiker2032&" alt="shiker2032" /></p>
+</section>
